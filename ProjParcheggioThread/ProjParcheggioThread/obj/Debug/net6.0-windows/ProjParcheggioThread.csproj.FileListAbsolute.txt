@@ -1,0 +1,16 @@
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\bin\Debug\net6.0-windows\ProjParcheggioThread.exe
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\bin\Debug\net6.0-windows\ProjParcheggioThread.deps.json
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\bin\Debug\net6.0-windows\ProjParcheggioThread.runtimeconfig.json
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\bin\Debug\net6.0-windows\ProjParcheggioThread.dll
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\bin\Debug\net6.0-windows\ProjParcheggioThread.pdb
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.Form1.resources
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.csproj.GenerateResource.cache
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.AssemblyInfoInputs.cache
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.AssemblyInfo.cs
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.csproj.CoreCompileInputs.cache
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.dll
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\refint\ProjParcheggioThread.dll
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.pdb
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.genruntimeconfig.cache
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ref\ProjParcheggioThread.dll
