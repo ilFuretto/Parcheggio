@@ -14,3 +14,4 @@ C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThr
 C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.pdb
 C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.genruntimeconfig.cache
 C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ref\ProjParcheggioThread.dll
+C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\obj\Debug\net6.0-windows\ProjParcheggioThread.Properties.Resources.resources
