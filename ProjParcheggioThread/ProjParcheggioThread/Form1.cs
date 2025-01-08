@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Media;
 using System.Threading;
 using System.Windows.Forms;
 
@@ -15,6 +16,8 @@ namespace ProjParcheggioThread
         List<Thread> macchine;
         List<PictureBox> immagini;
         List<bool> postiOccupati;
+        SoundPlayer audioIngresso;
+        SoundPlayer audioUscita;
 
         public Form1()
         {
@@ -30,6 +33,8 @@ namespace ProjParcheggioThread
             };
             postiOccupati = new List<bool>(new bool[maxPosti]);
             label1.Text = "Numero di macchine: " + macchine.Count;
+            audioIngresso = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "audio", "audioEntrata.wav"));
+            audioUscita = new SoundPlayer(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "audio", "audioUscitaParcheggio.wav"));
         }
 
         private void btnStart_Click(object sender, EventArgs e)
@@ -83,6 +88,7 @@ namespace ProjParcheggioThread
             int posto = (int)postoId;
             try
             {
+                audioIngresso.Play();
                 parcheggio.WaitOne();
 
                 AggiornaLabelMacchine();
@@ -113,6 +119,7 @@ namespace ProjParcheggioThread
 
                     macchine.RemoveAll(m => m.ManagedThreadId == Thread.CurrentThread.ManagedThreadId);
                     AggiornaLabelMacchine();
+                    audioUscita.Play();
                     MessageBox.Show("Macchina al posto " + (posto + 1) + " sta lasciando il parcheggio.");
                     uscitaCompletata = true;
                 }

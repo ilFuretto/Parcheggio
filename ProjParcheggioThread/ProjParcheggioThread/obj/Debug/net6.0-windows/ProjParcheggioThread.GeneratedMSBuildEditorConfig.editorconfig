@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjParcheggioThread
-build_property.ProjectDir = C:\Users\colombo.21191\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\
+build_property.ProjectDir = C:\Users\admin\Desktop\Parcheggio\ProjParcheggioThread\ProjParcheggioThread\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
